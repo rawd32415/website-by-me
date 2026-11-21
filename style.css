@@ -1,0 +1,214 @@
+body{
+    background-color: white;
+    margin: 0;
+    box-sizing: border-box;
+}
+.vv{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 13px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
+.ee{
+    color: white;
+}
+#btn1{
+    background-color:rgba(253, 171, 30, 0.877);
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border-radius: 8px;
+    border:1px solid rgba(253, 171, 30, 0.877);
+}
+.we{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(165, 42, 42, 0.87);
+    opacity:1;
+}
+
+.rawda{
+    background-color: sienna;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 290px;
+}
+.soo{
+    color:white;
+}
+.p{
+    color:white ;
+}
+#k{
+    background-color: rgba(253, 171, 30, 0.877);
+    border: 2px solid rgba(253, 171, 30, 0.877) ;
+    height: 35px;
+    border-radius: 8px;
+}
+#e{
+background-color:transparent ;
+color: white;
+height:35px ;
+border-radius: 8px;
+border: 2px solid lightgoldenrodyellow ;
+}
+#e:hover{
+background-color:rgba(245, 245, 0, 0.897) ;
+}
+.ro{
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+}
+
+.wq{
+    background-color: rgb(253, 235, 235);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 18px;
+    width: 589px;
+    border-radius: 7px;
+}
+.mm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 28px;
+}
+#bb{
+    background-color: rgba(43, 15, 2, 0.905);
+    color: white;
+    width: 90px;
+    height: 38px;
+    border-radius: 8px;
+}
+#d{
+    background-color:rgba(253, 171, 30, 0.877) ;
+    width: 80px ;
+    height: 35px;
+    border-radius: 8px;
+    border:1px  solid rgba(253, 171, 30, 0.877);
+}
+
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+}
+.de{
+    background-color: rgb(254, 254, 188);
+    width: 230px;
+    border-radius:16px ;
+    text-align: center;
+    padding:18px ;
+    height: 150px;
+}
+
+.wr{
+    margin: 35px;
+}
+
+.x{
+    width: 290px;
+    height: 199px;
+    border-radius: 9px;
+}
+.ef{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+span{
+   background-color: yellow;
+   width: 290px;
+   height:90px ;
+   border-radius: 2px;
+}
+
+.iu{
+    background-color: rgb(60, 3, 3);
+    color: white;
+}
+.container{
+    display: grid;
+    grid-template-columns:repeat(2 , 290px) ;
+    justify-content: center;
+    align-items: center;
+gap: 40px;
+}
+
+.box{
+    background-color: sienna;
+    height: 200px;
+    text-align: center;
+    padding: 7px;
+    border-radius: 8px;
+}
+.tg{
+    color: white;
+}
+.box5{
+    grid-column: 1/ span 2;
+    background-color: rgb(245, 170, 195);
+}
+.tg{
+    margin: 40px;
+}
+
+.j{
+    color: sienna;
+    text-align: center;
+}
+
+.kl{
+    width: 160px;
+    border-radius: 100%;
+}
+
+.dad{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.ccc{
+    text-align: center;
+}
+.cv{
+    margin: 50px;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(37, 1, 56);
+}
+.hh{
+    color: white;
+}
+.yyy{
+    color: white;
+}
+.ttt{
+    color: white;
+}
